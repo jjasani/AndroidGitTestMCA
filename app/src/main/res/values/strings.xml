@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AndroidGitTestMCA</string>
-    <string name="message">Hello World</string>
+    <string name="message">Hello World...</string>
 </resources>
