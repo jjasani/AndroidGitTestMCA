@@ -22,5 +22,7 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("com.rku.androidgittestmca", appContext.getPackageName());
+        // NO code added
+        //assertEquals("com.rku.androidgittestmca", appContext.getPackageName());
     }
 }
